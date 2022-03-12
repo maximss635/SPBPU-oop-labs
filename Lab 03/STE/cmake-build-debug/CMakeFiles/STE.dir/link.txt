@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/STE.dir/main.cpp.o CMakeFiles/STE.dir/Console.cpp.o CMakeFiles/STE.dir/MyString.cpp.o  -o STE  -lncurses 

@@ -1,0 +1,3 @@
+/home/maxim/IBKS - 3 course/OOP/Labs/Lab 03/STE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/maxim/IBKS - 3 course/OOP/Labs/Lab 03/STE/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/maxim/IBKS - 3 course/OOP/Labs/Lab 03/STE/cmake-build-debug/CMakeFiles/STE.dir

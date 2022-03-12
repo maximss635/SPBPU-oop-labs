@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maxim/IBKS - 3 course/OOP/Labs/Lab 03/STE/ArgParser.h
+iostream
+-
+MyStringAdditions.h
+/home/maxim/IBKS - 3 course/OOP/Labs/Lab 03/STE/MyStringAdditions.h
+Journal.h
+/home/maxim/IBKS - 3 course/OOP/Labs/Lab 03/STE/Journal.h
+
+/home/maxim/IBKS - 3 course/OOP/Labs/Lab 03/STE/Console.cpp
+Console.h
+/home/maxim/IBKS - 3 course/OOP/Labs/Lab 03/STE/Console.h
+Journal.h
+/home/maxim/IBKS - 3 course/OOP/Labs/Lab 03/STE/Journal.h
+
+/home/maxim/IBKS - 3 course/OOP/Labs/Lab 03/STE/Console.h
+ncurses.h
+-
+fstream
+-
+ArgParser.h
+/home/maxim/IBKS - 3 course/OOP/Labs/Lab 03/STE/ArgParser.h
+
+/home/maxim/IBKS - 3 course/OOP/Labs/Lab 03/STE/Journal.h
+fstream
+-
+ctime
+-
+
+/home/maxim/IBKS - 3 course/OOP/Labs/Lab 03/STE/MyString.h
+iostream
+-
+fstream
+-
+string
+-
+cstddef
+-
+cstring
+-
+cmath
+-
+
+/home/maxim/IBKS - 3 course/OOP/Labs/Lab 03/STE/MyStringAdditions.h
+fstream
+-
+MyString.h
+/home/maxim/IBKS - 3 course/OOP/Labs/Lab 03/STE/MyString.h
+
